@@ -1,0 +1,92 @@
+Radioactivity example with an average of 2 decays/sec.
+a) What’s the probability of zero decays in one second?
+b) What’s the probability of more than one decay in one second?
+
+Example: tossing a coin twice
+What is the probability of getting one or more heads? X= #H’s in the word
+The probability mass function for a binomial distribution:
+
+If a coin is tossed three times, the sample space might be described by a list of 8 three-letter words,
+• possible random variables:
+
+Example: X: A lottery game where 69 white balls are used by a machine to randomly select 5 of the balls. What is the probability of winning the game if the order does not matter?
+
+Example: X: A lottery game where 69 white balls are used by a machine to randomly select 5 of the balls. What is the probability of winning the game if the order does matter?
+
+
+How many different choices are there where 3 pool balls could be chosen out of 16.
+
+There are five flavors of ice cream: banana, chocolate, lemon, strawberry and vanilla (n(S) = 5). We can have
+three scoops (n(E) =3). How many variations will there be?
+
+
+How many different ways are there that 3 pool balls could be arranged out of 16 balls.
+
+The combination to a safe is composed of 4 digits. There are 10 numbers to choose from 0,1,2,4,5,6,7,8, 9 and we need to pick up 4 of them. The number of permutations is:
+
+You have 10 pairs of pants and 3 are black. You have 16 shirts and 4 are white. You grab your pants and shirt randomly from the closet. What is the probability that you grab a black pair of pants and a white shirt?
+
+Calculate the probability of obtaining “heads” during two consecutive coin flips.
+
+We have 52 cards. We want to find out the probability of getting three jacks consecutively if
+we don’t return the drawn card each draw.
+
+A bag contains 6 black marbles and 4 white marbles. Two marbles are drawn from the bag, without replacement. What is the probability that both marbles are white?
+
+200 patients who had either hip surgery or knee surgery were asked whether they were satisfied or dissatisfied regarding the result of their surgery. The following table summarizes their response.
+Surgery
+Satisfied
+Dissatisfied
+Total
+Knee
+70
+25
+95
+Hip
+90
+15
+105
+Total
+160
+40
+200
+If one person from the 200 patients is randomly selected, determine the probability that the person was satisfied GIVEN that the person had knee surgery.
+
+a family has two children; assuming that boys and girls are equally likely, determine the probability that the family has:
+a) 1 boy and 1 girl GIVEN the first child is a boy
+b) 2 girls GIVEN that at least one is a girl
+c) 2 girls GIVEN that the older one is a girl
+
+Tossing a die; 
+* “an odd number is thrown”
+• “the number thrown is less than 3”
+
+tossing a die; the probability that a 2 was rolled, GIVEN an even number has been rolled
+is 1/3; find the composite probability
+
+Example 1: X = tossing a die; determine the probability that a 2 was rolled, GIVEN an
+even number has been rolled
+
+tossing a die; determine the probability that a 2 was rolled, GIVEN an even number has been rolled
+
+80% chance of rain - log odds
+
+tossing a die
+
+Tossing a fair coin twice.
+
+Tossing a fair die
+
+Tossing a fair coin
+
+tossing a die twice
+
+tossing a coin twice
+
+
+tossing a die
+S = {1,2,3,4,5,6}
+E = {} = P(X) = 1/6
+
+
+
